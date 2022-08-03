@@ -1,18 +1,4 @@
-.App {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-  min-height: 100vh;
-  font-family: Georgia, serif
-}
-
 @media screen and (max-width: 1000px) {
-  .App {
-    align-items: center;
-    flex-direction: column;
-  }
-
   .Personal-Details {
     text-align: center;
   }
